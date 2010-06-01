@@ -1,3 +1,5 @@
+0.002003 2010-06-01 13:00EST
+ - messed up release
 0.002002 2010-06-01 12:00EST
  - $VERSION = eval $VERSION;
  - add MooseX::Types::Common as a dep

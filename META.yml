@@ -34,4 +34,4 @@ resources:
   IRC: irc://irc.perl.org/#poe
   license: http://dev.perl.org/licenses/
   repository: git://github.com/groditi/Cantella-Worker.git
-version: 0.002002
+version: 0.002003

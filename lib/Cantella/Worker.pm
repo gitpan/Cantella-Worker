@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Carp qw/cluck/;
 
-our $VERSION = '0.002002';
+our $VERSION = '0.002003';
 $VERSION = eval $VERSION;
 
 sub import {
